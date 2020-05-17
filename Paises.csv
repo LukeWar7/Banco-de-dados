@@ -1,0 +1,247 @@
+ID,alpha2,alpha3,name_pt,name_db,Population
+28,AG,ATG,Antígua e Barbuda,Antigua and Barbuda,97928
+12,DZ,DZA,Argélia,Algeria,43851043
+31,AZ,AZE,Azerbaijão,Azerbaijan,10139175
+8,AL,ALB,Albânia,Albania,2877800
+51,AM,ARM,Armênia,Armenia,2963234
+24,AO,AGO,Angola,Angola,32866268
+16,AS,ASM,Samoa Americana,NA,64051
+32,AR,ARG,Argentina,Argentina,45195777
+36,AU,AUS,Austrália,Australia,25459700
+48,BH,BHR,Bahrein,Bahrain,1701583
+52,BB,BRB,Barbados,Barbados,287371
+60,BM,BMU,Bermudas,NA,64174
+44,BS,BHS,Bahamas,Bahamas,393248
+50,BD,BGD,Bangladesh,Bangladesh,164689383
+84,BZ,BLZ,Belize,Belize,397621
+70,BA,BIH,Bósnia e Herzegovina,Bosnia and Herzegovina,3280815
+68,BO,BOL,Bolívia,Bolivia,11673029
+104,MM,MMR,Mianmar,Burma,54409794
+204,BJ,BEN,Benim,Benin,12123198
+90,SB,SLB,Ilhas Salomão,NA,472419
+76,BR,BRA,Brasil,Brazil,212559409
+100,BG,BGR,Bulgária,Bulgaria,6948445
+96,BN,BRN,Brunei,Brunei,437483
+124,CA,CAN,Canadá,Canada,37855702
+116,KH,KHM,Camboja,Cambodia,16718971
+144,LK,LKA,Sri Lanka,Sri Lanka,21413250
+178,CG,COG,República do Congo,Congo (Brazzaville),5518092
+180,CD,COD,República Democrática do Congo,Congo (Kinshasa),89561404
+108,BI,BDI,Burundi,Burundi,11890781
+156,CN,CHN,China,China,1404676330
+4,AF,AFG,Afeganistão,Afghanistan,38928341
+64,BT,BTN,Butão,Bhutan,771612
+152,CL,CHL,Chile,Chile,19116209
+136,KY,CYM,Ilhas Cayman,NA,45591
+120,CM,CMR,Camarões,Cameroon,26545864
+148,TD,TCD,Chade,Chad,16425859
+174,KM,COM,Comores,Comoros,869595
+170,CO,COL,Colômbia,Colombia,50882884
+188,CR,CRI,Costa Rica,Costa Rica,5094114
+140,CF,CAF,República Centro-Africana,Central African Republic,4829764
+192,CU,CUB,Cuba,Cuba,11326616
+132,CV,CPV,Cabo Verde,Cabo Verde,555988
+184,CK,COK,Ilhas Cook,NA,13984
+196,CY,CYP,Chipre,Cyprus,1207361
+208,DK,DNK,Dinamarca,Denmark,5792203
+262,DJ,DJI,Djibouti,Djibouti,988002
+212,DM,DMA,Dominica,Dominica,71991
+214,DO,DOM,República Dominicana,Dominican Republic,10847904
+218,EC,ECU,Equador,Ecuador,17643060
+818,EG,EGY,Egito,Egypt,102334403
+372,IE,IRL,Irlanda,Ireland,4937796
+226,GQ,GNQ,Guiné Equatorial,Equatorial Guinea,1402985
+233,EE,EST,Estónia,Estonia,1326539
+232,ER,ERI,Eritreia,Eritrea,3546427
+222,SV,SLV,El Salvador,El Salvador,6486201
+231,ET,ETH,Etiópia,Ethiopia,114963583
+40,AT,AUT,Áustria,Austria,9006400
+203,CZ,CZE,Chéquia,Czechia,10708982
+254,GF,GUF,Guiana Francesa,NA,192099
+246,FI,FIN,Finlândia,Finland,5540718
+242,FJ,FJI,Fiji,Fiji,896444
+238,FK,FLK,Ilhas Malvinas,NA,2975
+583,FM,FSM,Estados Federados da Micronésia,NA,110058
+258,PF,PYF,Polinésia Francesa,NA,255632
+250,FR,FRA,França,France,65273512
+270,GM,GMB,Gâmbia,Gambia,2416664
+266,GA,GAB,Gabão,Gabon,2225728
+268,GE,GEO,Geórgia,Georgia,3989175
+288,GH,GHA,Gana,Ghana,31072945
+308,GD,GRD,Granada,Grenada,112519
+304,GL,GRL,Gronelândia,NA,57475
+276,DE,DEU,Alemanha,Germany,83783945
+316,GU,GUM,Guam,NA,16857
+300,GR,GRC,Grécia,Greece,10423056
+320,GT,GTM,Guatemala,Guatemala,17915567
+324,GN,GIN,Guiné,Guinea,13132792
+328,GY,GUY,Guiana,Guyana,786559
+332,HT,HTI,Haiti,Haiti,11402533
+340,HN,HND,Honduras,Honduras,9904608
+191,HR,HRV,Croácia,Croatia,4105268
+348,HU,HUN,Hungria,Hungary,9660350
+352,IS,ISL,Islândia,Iceland,341250
+356,IN,IND,Índia,India,1380004385
+364,IR,IRN,Irão,Iran,83992953
+376,IL,ISR,Israel,Israel,8655541
+380,IT,ITA,Itália,Italy,60461828
+384,CI,CIV,Costa do Marfim,Cote d'Ivoire,26378275
+368,IQ,IRQ,Iraque,Iraq,40222503
+392,JP,JPN,Japão,Japan,126476458
+388,JM,JAM,Jamaica,Jamaica,2961161
+400,JO,JOR,Jordânia,Jordan,10203140
+404,KE,KEN,Quênia,Kenya,53771300
+417,KG,KGZ,Quirguistão,Kyrgyzstan,6524191
+408,KP,PRK,Coreia do Norte,NA,23615611
+296,KI,KIR,Kiribati,NA,92003
+410,KR,KOR,Coreia do Sul,"Korea, South",51269183
+414,KW,KWT,Kuwait,Kuwait,4270563
+398,KZ,KAZ,Cazaquistão,Kazakhstan,18776707
+418,LA,LAO,Laos,Laos,7275556
+422,LB,LBN,Líbano,Lebanon,6825442
+428,LV,LVA,Letônia,Latvia,1886202
+112,BY,BLR,Bielorrússia,Belarus,9449321
+440,LT,LTU,Lituânia,Lithuania,2722291
+430,LR,LBR,Libéria,Liberia,5057677
+703,SK,SVK,Eslováquia,Slovakia,5459643
+438,LI,LIE,Liechtenstein,Liechtenstein,38137
+434,LY,LBY,Líbia,Libya,6871287
+450,MG,MDG,Madagáscar,Madagascar,27691019
+474,MQ,MTQ,Martinica,NA,395896
+496,MN,MNG,Mongólia,Mongolia,3278292
+500,MS,MSR,Montserrat,NA,5628
+807,MK,MKD,Macedônia do Norte,North Macedonia,2083380
+466,ML,MLI,Mali,Mali,20250834
+504,MA,MAR,Marrocos,Morocco,36910558
+480,MU,MUS,Maurícia,Mauritius,1271767
+478,MR,MRT,Mauritânia,Mauritania,4649660
+470,MT,MLT,Malta,Malta,441539
+512,OM,OMN,Omã,Oman,5106622
+462,MV,MDV,Maldivas,Maldives,540542
+484,MX,MEX,México,Mexico,128932753
+458,MY,MYS,Malásia,Malaysia,32365998
+508,MZ,MOZ,Moçambique,Mozambique,31255435
+454,MW,MWI,Malawi,Malawi,19129955
+540,NC,NCL,Nova Caledônia,NA,234185
+570,NU,NIU,Niue,NA,1632
+562,NE,NER,Níger,Niger,24206636
+533,AW,ABW,Aruba,NA,102897
+660,AI,AIA,Anguilla,NA,12256
+56,BE,BEL,Bélgica,Belgium,11589616
+344,HK,HKG,Hong Kong,NA,7057418
+580,MP,MNP,Marianas Setentrionais,NA,80258
+234,FO,FRO,Ilhas Feroé,NA,48205
+20,AD,AND,Andorra,Andorra,77265
+292,GI,GIB,Gibraltar,NA,291
+833,IM,IMN,Ilha de Man,NA,78357
+442,LU,LUX,Luxemburgo,Luxembourg,625976
+446,MO,MAC,Macau,NA,47309
+492,MC,MCO,Mónaco,Monaco,39244
+275,PS,PSE,Palestina,West Bank and Gaza,5101416
+499,ME,MNE,Montenegro,Montenegro,628062
+175,YT,MYT,Mayotte,NA,0
+248,AX,ALA,Ilhas Åland,NA,0
+574,NF,NFK,Ilha Norfolk,NA,0
+166,CC,CCK,Ilhas Cocos (Keeling),NA,0
+10,AQ,ATA,Antártida,NA,0
+74,BV,BVT,Ilha Bouvet,NA,0
+260,TF,ATF,Terras Austrais e Antárticas Francesas,NA,0
+334,HM,HMD,Ilha Heard e Ilhas McDonald,NA,0
+86,IO,IOT,Território Britânico do Oceano Índico,NA,0
+162,CX,CXR,Ilha do Natal,NA,0
+581,UM,UMI,Ilhas Menores Distantes dos Estados Unidos,NA,0
+548,VU,VUT,Vanuatu,NA,215366
+566,NG,NGA,Nigéria,Nigeria,206139587
+528,NL,NLD,Países Baixos,Netherlands,17134873
+578,NO,NOR,Noruega,Norway,5421242
+524,NP,NPL,Nepal,Nepal,29136808
+520,NR,NRU,Nauru,NA,10111
+740,SR,SUR,Suriname,Suriname,586634
+558,NI,NIC,Nicarágua,Nicaragua,6624554
+554,NZ,NZL,Nova Zelândia,New Zealand,4822233
+600,PY,PRY,Paraguai,Paraguay,7132530
+604,PE,PER,Peru,Peru,32971846
+586,PK,PAK,Paquistão,Pakistan,220892331
+616,PL,POL,Polónia,Poland,37846605
+591,PA,PAN,Panamá,Panama,4314768
+620,PT,PRT,Portugal,Portugal,10196707
+598,PG,PNG,Papua-Nova Guiné,Papua New Guinea,8947027
+624,GW,GNB,Guiné-Bissau,Guinea-Bissau,1967998
+634,QA,QAT,Catar,Qatar,2881060
+638,RE,REU,Reunião,NA,785159
+642,RO,ROU,Roménia,Romania,19237682
+498,MD,MDA,Moldávia,Moldova,4033963
+608,PH,PHL,Filipinas,Philippines,109581085
+630,PR,PRI,Porto Rico,NA,3946779
+643,RU,RUS,Rússia,Russia,145934460
+646,RW,RWA,Ruanda,Rwanda,12952209
+682,SA,SAU,Arábia Saudita,Saudi Arabia,34813867
+659,KN,KNA,São Cristóvão e Névis,Saint Kitts and Nevis,53192
+690,SC,SYC,Seicheles,Seychelles,98340
+710,ZA,ZAF,África do Sul,South Africa,59308690
+426,LS,LSO,Lesoto,Lesotho,2142252
+72,BW,BWA,Botswana,Botswana,2351625
+686,SN,SEN,Senegal,Senegal,16743930
+705,SI,SVN,Eslovênia,Slovenia,2078932
+694,SL,SLE,Serra Leoa,Sierra Leone,7976985
+702,SG,SGP,Singapura,Singapore,5850343
+706,SO,SOM,Somália,Somalia,15893219
+724,ES,ESP,Espanha,Spain,46754783
+662,LC,LCA,Santa Lúcia,Saint Lucia,183629
+736,SD,SDN,Sudão,NA,36899747
+752,SE,SWE,Suécia,Sweden,10099270
+760,SY,SYR,Síria,Syria,17500657
+756,CH,CHE,Suíça,Switzerland,8654618
+780,TT,TTO,Trinidad e Tobago,Trinidad and Tobago,1399491
+764,TH,THA,Tailândia,Thailand,69799978
+762,TJ,TJK,Tajiquistão,Tajikistan,9537642
+772,TK,TKL,Toquelau,NA,1401
+776,TO,TON,Tonga,NA,99361
+768,TG,TGO,Togo,Togo,8278737
+678,ST,STP,São Tomé e Príncipe,Sao Tome and Principe,219161
+788,TN,TUN,Tunísia,Tunisia,11818618
+792,TR,TUR,Turquia,Turkey,84339067
+798,TV,TUV,Tuvalu,NA,10441
+795,TM,TKM,Turquemenistão,NA,4833266
+834,TZ,TZA,Tanzânia,Tanzania,59734213
+800,UG,UGA,Uganda,Uganda,45741000
+826,GB,GBR,Reino Unido,United Kingdom,67886004
+804,UA,UKR,Ucrânia,Ukraine,43733759
+840,US,USA,Estados Unidos,US,329466283
+854,BF,BFA,Burkina Faso,Burkina Faso,20903278
+858,UY,URY,Uruguai,Uruguay,3473727
+860,UZ,UZB,Uzbequistão,Uzbekistan,33469199
+670,VC,VCT,São Vicente e Granadinas,Saint Vincent and the Grenadines,110947
+862,VE,VEN,Venezuela,Venezuela,28435943
+92,VG,VGB,Ilhas Virgens Britânicas,NA,22016
+704,VN,VNM,Vietnã,Vietnam,97338583
+850,VI,VIR,Ilhas Virgens Americanas,NA,111408
+516,"NA",NAM,Namíbia,Namibia,2540916
+876,WF,WLF,Wallis e Futuna,NA,15079
+882,WS,WSM,Samoa,NA,183845
+748,SZ,SWZ,Essuatíni,Eswatini,1160164
+887,YE,YEM,Iêmen,Yemen,29825968
+894,ZM,ZMB,Zâmbia,Zambia,18383956
+716,ZW,ZWE,Zimbabwe,Zimbabwe,14862927
+360,ID,IDN,Indonésia,Indonesia,273523621
+312,GP,GLP,Guadalupe,NA,438403
+530,AN,ANT,Antilhas Neerlandesas,NA,186392
+784,AE,ARE,Emirados Árabes Unidos,United Arab Emirates,9890400
+626,TL,TLS,Timor-Leste,Timor-Leste,1318442
+612,PN,PCN,Pitcairn,NA,5
+585,PW,PLW,Palau,NA,20127
+584,MH,MHL,Ilhas Marshall,NA,5672
+666,PM,SPM,Saint-Pierre e Miquelon,NA,6346
+654,SH,SHN,"Santa Helena, Ascensão e Tristão da Cunha",NA,6399
+674,SM,SMR,San Marino,San Marino,33938
+796,TC,TCA,Turks e Caicos,NA,24459
+732,EH,ESH,Saara Ocidental,Western Sahara,597330
+688,RS,SRB,Sérvia,Serbia,8737370
+336,VA,VAT,Vaticano,Holy See,809
+744,SJ,SJM,Svalbard e Jan Mayen,NA,0
+663,MF,MAF,São Martinho,NA,0
+652,BL,BLM,São Bartolomeu,NA,0
+831,GG,GGY,Guernsey,NA,0
+832,JE,JEY,Jersey,NA,0
+239,GS,SGS,Ilhas Geórgia do Sul e Sandwich do Sul,NA,0
+158,TW,TWN,Taiwan,Taiwan*,23816775
