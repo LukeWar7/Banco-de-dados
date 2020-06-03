@@ -188,7 +188,7 @@ ID,alpha2,alpha3,name_pt,name_db,Population
 706,SO,SOM,Somália,Somalia,15893219
 724,ES,ESP,Espanha,Spain,46754783
 662,LC,LCA,Santa Lúcia,Saint Lucia,183629
-736,SD,SDN,Sudão,NA,36899747
+736,SD,SDN,Sudão,Sudan,36899747
 752,SE,SWE,Suécia,Sweden,10099270
 760,SY,SYR,Síria,Syria,17500657
 756,CH,CHE,Suíça,Switzerland,8654618
@@ -216,7 +216,7 @@ ID,alpha2,alpha3,name_pt,name_db,Population
 92,VG,VGB,Ilhas Virgens Britânicas,NA,22016
 704,VN,VNM,Vietnã,Vietnam,97338583
 850,VI,VIR,Ilhas Virgens Americanas,NA,111408
-516,"NA",NAM,Namíbia,Namibia,2540916
+516,NA,NAM,Namíbia,Namibia,2540916
 876,WF,WLF,Wallis e Futuna,NA,15079
 882,WS,WSM,Samoa,NA,183845
 748,SZ,SWZ,Essuatíni,Eswatini,1160164
@@ -245,3 +245,5 @@ ID,alpha2,alpha3,name_pt,name_db,Population
 832,JE,JEY,Jersey,NA,0
 239,GS,SGS,Ilhas Geórgia do Sul e Sandwich do Sul,NA,0
 158,TW,TWN,Taiwan,Taiwan*,23816775
+383,XK,XKS,Kosovo,Kosovo,1810366
+728,SS,SSD,Sudão do Sul,South Sudan,11193729
